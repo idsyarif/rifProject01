@@ -1,1 +1,1 @@
-Belajar keterampulan fullstack web developer
+Belajar keterampilan fullstack web developer
